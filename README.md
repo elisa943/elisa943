@@ -1,8 +1,5 @@
 ### Welcome to my GitHub profile! 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apielisa943anuraghazra&show_icons=true&theme=transparent)
-
-
 <!--
 **elisa943/elisa943** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
