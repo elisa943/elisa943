@@ -17,6 +17,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisa943&layout=donut" />
 </a>
 
+[![Elisa's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elisa943)](https://github.com/anuraghazra/github-readme-stats)
+
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/elisa-chien/" title="LinkedIn Profile"><img width="22" src="linkedin.png"> LinkedIn</a></code>
 </h5>
