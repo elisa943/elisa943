@@ -22,4 +22,3 @@
   <h5 align="center">
     <code><a href="https://www.linkedin.com/in/elisa-chien/" title="LinkedIn Profile"><img width="22" src="linkedin.png"> LinkedIn</a></code>
   </h5>
-<\center>
