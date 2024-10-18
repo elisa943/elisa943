@@ -22,7 +22,7 @@
 
 <h3>Links:</h3>
 <h5 align="center">
-    <code><a href="[elisa943.github.io/](https://elisa943.github.io/)" title="Github Page">My GitHub Page</a></code
+    <code><a href="https://elisa943.github.io/" title="Github Page">My GitHub Page</a></code
     <code><a href="https://github.com/elisa943" title="Github Profile"><img width="22" src="github-logo.png"> GitHub</a></code
     <code><a href="https://www.linkedin.com/in/elisa-chien/" title="LinkedIn Profile"><img width="22" src="linkedin.png"> LinkedIn</a></code
 </h5>
