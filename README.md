@@ -1,6 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;I'm+Elisa.;Welcome+to+my+GitHub!&center=true&size=25">
+  Hello World! 👋 I'm Elisa.
 </h1>
+
+<p align="center">
+  Welcome to my GitHub profile! 🚀
+</p>
 
 ## 📊 Stats
 
@@ -8,16 +12,12 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elisa943&layout=compact&langs_count=8&card_width=320" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=elisa943&show_icons=true&count_private=true" />
-  </a>
 </div>
 
-### 🕒 Weekly Development Breakdown
 <!-- WakaTime Stats -->
 <div align="center">
   <a href="https://wakatime.com/@elisa943">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=elisa943&layout=compact&langs_count=6&custom_title=Weekly%20Development%20Breakdown" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=elisa943&layout=compact&langs_count=6&custom_title=Total%20Time%20Spent" />
   </a>
 </div>
 
@@ -69,7 +69,17 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
   </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
+  </a>
 </p>
+
+## 🎵 Spotify
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=my_name_is_elisa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false" />
+  </a>
+</div>
 
 ## 🔗 Connect with Me
 
@@ -78,3 +88,5 @@
   <a href="https://github.com/elisa943" target="_blank">🐙 GitHub</a> |
   <a href="https://www.linkedin.com/in/elisa-chien/" target="_blank">🔗 LinkedIn</a>
 </p>
+
+<!-- ![](https://komarev.com/ghpvc/?username=elisa943&color=green) -->
