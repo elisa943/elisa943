@@ -6,20 +6,7 @@
   Welcome to my GitHub profile! 🚀
 </p>
 
-## 📊 Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elisa943&layout=compact&langs_count=8&card_width=320" />
-  </a>
-</div>
-
-<!-- WakaTime Stats -->
-<div align="center">
-  <a href="https://wakatime.com/@elisa943">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=elisa943&layout=compact&langs_count=6&custom_title=Total%20Time%20Spent" />
-  </a>
-</div>
+<a href="https://wakatime.com/@018e29ff-4eb2-4d22-b701-0044e6cd7da1"><img src="https://wakatime.com/badge/user/018e29ff-4eb2-4d22-b701-0044e6cd7da1.svg" alt="Total time coded since Mar 10 2024" /></a>
 
 ## 🛠️ Languages & Tools
 
@@ -73,13 +60,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
   </a>
 </p>
-
-## 🎵 Spotify
-<div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=my_name_is_elisa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false" />
-  </a>
-</div>
 
 ## 🔗 Connect with Me
 
